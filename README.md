@@ -1,6 +1,3 @@
-
-In that way we create authentication for a user inserted by us in database and give him some authorities in action form.
-
 # Spring Security Fundamentals - Managing users
 
 This project is based on **Lesson 2 - Managing users** from
